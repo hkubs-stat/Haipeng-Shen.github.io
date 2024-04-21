@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dan Yang/'s homepage"
-title_separator          : "-"
+title                    : "Dan Yang's homepage"
+title_separator          : "" # "-"
 name                     : &name "Dan Yang"
 description              : &description "personal description"
 url                      : https://dyanghku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
