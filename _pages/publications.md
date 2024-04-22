@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -14,37 +14,27 @@ author_profile: true
 
 ## Preprints:
 
-- Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021)
-Network Regression and Supervised Centrality Estimation. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)  [Arxiv](https://arxiv.org/abs/2111.12921)
+- Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021)  Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523) [[Arxiv]](https://arxiv.org/abs/2111.12921)
 
+- Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022)    Analysis of Tensor Time Series: tensorTS.
 
+- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2020)
 
+Tensor factor model estimation by iterative projection. [[Arxiv]](https://arxiv.org/abs/2006.02611)
 
-Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022)
-Analysis of Tensor Time Series: tensorTS.
-
-
-Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2020)
-
-Tensor factor model estimation by iterative projection.
-
-https://arxiv.org/abs/2006.02611
-
-
-Dan Yang, Dong Wang, Jianlong Shao, Haipeng Shen and Hongtu Zhu (2020)
+- Dan Yang, Dong Wang, Jianlong Shao, Haipeng Shen and Hongtu Zhu (2020)
 
 Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space.
+[[Arxiv]](http://arxiv.org/abs/2311.12597)
 
-http://arxiv.org/abs/2311.12597
 
+- Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022)
 
-Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022)
+Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
 
-Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management
+## Publications:
 
-Publications:
-
-Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024)
+- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024)
 
 CP Factor Model for Dynamic Tensors.
 
