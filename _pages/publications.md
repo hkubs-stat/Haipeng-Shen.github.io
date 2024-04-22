@@ -40,52 +40,50 @@ CP Factor Model for Dynamic Tensors.
 
 The Journal of the Royal Statistical Society, Series B, accepted
 
-
-
-Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023)
+- Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023)
 
 Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data.
 
 Journal of Econometrics, 232(2), 544-564
 
-https://arxiv.org/abs/2006.16501
+[[Arxiv]](https://arxiv.org/abs/2006.16501)
 
 
-Junhui Cai, Dan Yang, Linda Zhao and Wu Zhu (2023)
+- Junhui Cai, Dan Yang, Linda Zhao and Wu Zhu (2023)
 
 Discussion of ‘Vintage Factor Analysis with Varimax Performs Statistical Inference’ by Rohe & Zeng.
 
 Journal of the Royal Statistical Society. Series B: Statistical Methodology, 85(4), 1076–1080
 
 
-Rong Chen, Dan Yang, and Cun-Hui Zhang (2022)
+- Rong Chen, Dan Yang, and Cun-Hui Zhang (2022)
 
 Rejoinder: Factor models for high-dimensional tensor time series.
 
 Journal of the American Statistical Association, Vol.117 (537), p.128-132
 
 
-Rong Chen, Dan Yang, and Cun-Hui Zhang (2022)
+- Rong Chen, Dan Yang, and Cun-Hui Zhang (2022)
 
 Factor models for high-dimensional tensor time series (with discussion).
 
 Journal of the American Statistical Association, Vol.117 (537), p.94-116 
 
-https://arxiv.org/abs/1905.07530
+[[Arxiv]](https://arxiv.org/abs/1905.07530)
 
 
-Rong Chen, Han Xiao, and Dan Yang (2021)
+- Rong Chen, Han Xiao, and Dan Yang (2021)
 
 Autoregressive models for matrix-valued time series.
 
 Journal of Econometrics, 222(1):539-560.
 
-https://arxiv.org/abs/1812.08916
+[[Arxiv]](https://arxiv.org/abs/1812.08916)
 
 
-Lutao Dai, Dan Yang, Haipeng Shen (2020).
+- Lutao Dai, Dan Yang, Haipeng Shen (2020).
 
-The Power of Clinical Data Empowered by Clinical Prediction Model, 
+[The Power of Clinical Data Empowered by Clinical Prediction Model](https://atm.amegroups.org/article/view/36493/pdf), 
 
 Annals of Translational Medicine, 8, 1-4.
 
@@ -96,41 +94,39 @@ Rate optimal denoising of simultaneously sparse and low rank matrices.
 
 Journal of Machine Learning Research, Vol.17(92), pp.1-27. 
 
-https://arxiv.org/abs/1405.0338
+[[Arxiv]](https://arxiv.org/abs/1405.0338)
 
 
-Gen Li, Dan Yang, Haipeng Shen, and Andrew B Nobel (2016)
+- Gen Li, Dan Yang, Haipeng Shen, and Andrew B Nobel (2016)
 
 Supervised Singular Value Decomposition and Its Asymptotic Properties. 
 
 Journal of Multivariate Analysis, 146:7-17.
 
 
-Dan Yang, Zongming Ma, and Andreas Buja (2014)
+- Dan Yang, Zongming Ma, and Andreas Buja (2014)
 
 A sparse singular value decomposition method for high-dimensional data. 
 
 Journal of Computational and Graphical Statistics, 23(4):923-942.
 
 
-Dan Yang, Dylan Small, Jeffrey H. Silber, and Paul R. Rosenbaum (2012)
+- Dan Yang, Dylan Small, Jeffrey H. Silber, and Paul R. Rosenbaum (2012)
 
 Optimal matching with minimal deviation from ﬁne balance in a study of obesity and surgical outcomes. 
 
 Biometrics, Volume 68, Issue 2, pages 628-636.
 
 
-Dan Yang and Dylan Small (2012). 
+- Dan Yang and Dylan Small (2012). 
 
 An R package and a study of methods for computing empirical likelihood. 
 
 Journal of Statistical Computation and Simulation, 83(7), 1363-1372.
 
-Work in progress:
+## Work in progress:
 
-Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
-
-Scalar-on-matrix bilinear regression analysis, with Dong Wang, Haipeng Shen, and Hongtu Zhu.
-
-Matrix auto-regression with network information, with Sanyou Wu, Long Feng, and Yan Xu
+- Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
+- Scalar-on-matrix bilinear regression analysis, with Dong Wang, Haipeng Shen, and Hongtu Zhu.
+- Matrix auto-regression with network information, with Sanyou Wu, Long Feng, and Yan Xu
 
