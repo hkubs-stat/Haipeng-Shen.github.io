@@ -21,7 +21,7 @@ repository               : "dyanghku/dyanghku.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "danyang_pic.png"
   name             : "Dan Yang (杨丹)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at HKU"

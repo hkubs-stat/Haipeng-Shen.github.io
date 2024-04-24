@@ -12,6 +12,6 @@ main:
   #- title: "People"
   #  url: /people/
         
-  #- title: "Others"
-   # url: /others/
+  - title: "Others"
+    url: /others/
    

@@ -36,7 +36,5 @@ classes: wide
 - Fall 2015: FSRM 588 Financial Data Mining
 - Spring 2015: FSRM 583 Statistical Inference with Financial Applications
 - Fall 2014: STAT 588 Data Mining
-
-Spring 2014:  STAT 567 Applied Multivariate Analysis
-
-Fall 2013: STAT 588 Data Mining
+- Spring 2014:  STAT 567 Applied Multivariate Analysis
+- Fall 2013: STAT 588 Data Mining
