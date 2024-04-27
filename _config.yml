@@ -8,31 +8,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dan Yang's homepage"
+title                    : "Haipeng Shen's homepage"
 title_separator          : "" # "-"
-name                     : &name "Dan Yang"
+name                     : &name "Haipeng Shen"
 description              : &description "personal description"
-url                      : https://dyanghku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hkubs-stat.github.io/Haipeng-Shen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dyanghku/dyanghku.github.io"
+repository               : "hkubs-stat/Haipeng-Shen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "danyang_pic.png"
-  name             : "Dan Yang (杨丹)"
+  avatar           : "HaipengShen.jpg"
+  name             : "Haipeng Shen (沈海鹏)"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at HKU"
+  bio              : "Patrick S C Poon Professor"
   location         : "Hong Kong"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "dyanghku@hku.hk" 
+  email            : "haipeng@hku.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=HCByLLUAAAAJ"
+  googlescholar    :  "https://scholar.google.com/citations?user=_N03HC8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
