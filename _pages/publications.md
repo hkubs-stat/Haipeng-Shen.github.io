@@ -22,12 +22,55 @@ author_profile: true
 ## Publications:
 
 - 2018+ 
-  - Han Ye, James Luedtke, H. Shen (2018+) <br> Call Center Arrivals: When to Jointly Forecast Multiple Streams?, <br> Production and Operations Management, accepted.
-  - Gen Li, J. Z. Huang, H. Shen (2018+) <br> To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers<br>Journal of the American Statistical Association, accepted.
-  - Gen Li, J. Z. Huang, H. Shen (2018+)  <br> Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model<br>Biometrics, accepted.
-  - Wang, ..., H. Shen, ..., Wang (2018)<br> Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial<br> The Journal of the American Medical Association, 320, 245-254.
-  - Dong, ..., H. Shen, ..., Dong (2018)<br>The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records<br>International Journal of Stroke, 13, 539-544.
-  - Makoto Aoshima, Dan Shen, H. Shen, Kazuyoshi Yata, Zhou, J. S. Marron (2018)<br> A Survey of High Dimension Low Sample Size Asymptotics <br>Australia and New Zealand Journal of Statistics, 60, 4-19. 
+  - Han Ye, James Luedtke, H. Shen (2018+). Call Center Arrivals: When to Jointly Forecast Multiple Streams?,Production and Operations Management, accepted.
+  - Gen Li, J. Z. Huang, H. Shen (2018+). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
+  - Gen Li, J. Z. Huang, H. Shen (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
+  - Wang, ..., H. Shen, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
+  - Dong, ..., H. Shen, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, International Journal of Stroke, 13, 539-544.
+  - Makoto Aoshima, Dan Shen, H. Shen, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
+
+
+- Statistical Methodology
+
+  - Gen Li, J. Z. Huang, H. Shen (2018+)  To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
+  - Gen Li, J. Z. Huang, H. Shen (2018+)  Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
+  - Makoto Aoshima, Dan Shen, H. Shen, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
+  - Dan Shen, H. Shen, J. S. Marron (2016). General Framework for Consistency of PCA, Journal of Machine Learning Research, 17, 1-34.
+    - An earlier version of this won the 2012 IMS Laha Travel Award.
+  - Dan Shen, H. Shen, Hongtu Zhu, J. S. Marron (2016) The Statistics and Mathematics of High Dimension Low Sample Size Asymptotics, Statistica Sinica, 26, 1747-1770.
+  - Paolo Zanini, H. Shen, Y. Truong (2016). Independent Component Analysis for Spatial Stochastic Processes on A Lattice, Annals of Applied Statistics, 10, 812-8333.
+  - Gen Li, H. Shen, J. Z. Huang (2016). Supervised Sparse and Functional PrincipalComponent Analysis, Journal of Computational and Graphical Statistics, 25, 859-878.
+  - Gen Li, Dan Yang, H. Shen, Andrew Nobel (2016). Supervised Singular Value Decomposition, Journal of Multivariate Analysis, 146, 7-17.
+  - Mihee Lee, Ling Wang, Peter Hall, H. Shen, J. S. Marron (2015). Least Squares Sieve Deconvolution of Mixture Distributions with Boundary Effects, Journal of the Korean Statistical Society, 44, 187-201.
+  - Dan Shen, H. Shen, Shankar Bhamidi, Yongdai Kim, J. S. Marron (2014). Functional Data Analysis of Trees, Journal of Computationl and Graphical Statistics, 23, 418-438. (online supplement)
+    - An earlier version of this paper won the 2011 Institute of Mathematical Statistics Laha Travel Award.
+  - Lingsong Zhang, H. Shen, Jianhua Z. Huang (2013). Robust Regularized Singular Value Decomposition with Application to Mortality Data, The Annals of Applied Statistics, 7, 1540-1561. (online supplement)
+  - Hanwen Huang, Dan Shen, Yufeng Liu, H. Shen, J. S. Marron (2013). Discussion: Large covariance estimation by thresholding principal orthogonal complements, Journal of the Royal Statistical Society Series B, 75, 603-680.
+  - Dan Shen, H. Shen, J. S. Marron (2013). Consistency of Sparse PCA in High Dimension, Low Sample Size Contexts, Journal of Multivariate Analysis, 115, 317-333. (online supplement)
+  - Mihee Lee, Peter Hall, H. Shen, Christina Burch, John Tolle, J. S. Marron (2013). Deconvolution Estimation of Mixture Distributions with Boundaries, Electronic Journal of Statistics, 7, 323-341. (online supplement)
+    - An earlier version of this paper won the 2009 student paper competition award of the ASA Sections on Statistical Computing and Graphics.
+  - Mihee Lee, H. Shen, Jianhua Z. Huang, J. S. Marron (2010). Biclustering via Sparse Singular Value Decomposition, Biometrics, 66, 1087-1095. (online supplement, software (WinRAR compressed), data (WinRAR compressed))
+  - Mihee Lee, H. Shen, Christina Burch, J. S. Marron (2010). Deconvolution Estimation of a Mixture Distribution Motivated by Mutation Effect Distributions, Journal of Nonparametric Statistics, 22, 1-22.
+  - Jianhua Z. Huang, H. Shen, Andreas Buja (2009). The Analysis of Two-Way Functional Data Using Two-Way Regularized Singular Value Decompositions, Journal of the American Statistical Association, 104, 1609-1620. (online supplement)
+  - H. Shen (2009). On Modeling and Forecasting Time Series of Smooth Curves, Technometrics, 51, 227-238. 
+    - This paper is selected as the Randy Sitter Paper of 2010 in Technometrics.
+  - H. Shen, Jianhua Z. Huang (2008). Sparse Principal Component Analysis via Regularized Low Rank Matrix Approximation, Journal of Multivariate Analysis, 99, 1015-1034. (software) 
+    - Most Cited JMVA Articles since 2008, 2012.
+  - Jianhua Z. Huang, H. Shen,  Andreas Buja (2008). Functional Principal Component Analysis via Regularized Best Basis Approximation, Electronic Journal of Statistics, 2, 678-695.
+  - H. Shen, Zhengyuan Zhu (2008). Efficient Mean Estimation in Log-normal Linear Models, Journal of Statistical Planning and Inference, 138, 552-567.
+  - Lingsong Zhang, J. S. Marron, H. Shen, Zhengyuan Zhu (2007). Singular Value Decomposition and Its Visualization, Journal of Computational and Graphical Statistics, 16, 833-854.
+    - An earlier version of this paper won the 2005 student paper competition award of the ASA Sections on Statistical Computing and Graphics.
+  - Christina L. Burch, Sebastien Guyader, Daniel Samarov, H. Shen (2007). Experimental Estimate of the Abundance and Effects of Nearly Neutral Mutations in an RNA Virus, Genetics, 176, 467-476.
+    - Featured in the Issue Highlights for May 2007.
+  - H. Shen, Lawrence D. Brown, Hui Zhi (2006). Efficient Estimation of Log-normal Means with Application to Pharmacokinetic Data, Statistics in Medicine, 25, 3023-3038.
+  - Jianhua Huang, H. Shen (2004). Functional Coefficient Regression Models for Nonlinear Time Series: A Polynomial Spline Approach, Scandinavian Journal of Statistics, 31, 515-534.
+
+
+
+
+
+
+
 
 
 
