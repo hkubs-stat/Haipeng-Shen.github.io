@@ -10,6 +10,6 @@ classes: wide
 - Innovation and Information Management (IIM)
 - Business School
 - The University of Hong Kong
-- Room 816, K.K. Leung Building
-- Phone: (852) 39170015
-- Email: dyanghku\@hku.hk
+- Room 815, K.K. Leung Building
+- Phone: (852) 3917 1624
+- Email: haipeng\@hku.hk
