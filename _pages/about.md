@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am the Patrick S C Poon Professor at Innovation and Information Management, and Associate Dean (Executive Education) at [Business School](https://www.hkubs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/).
+I am the Associate Dean (Executive Education) at [Business School](https://www.hkubs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), Patrick S C Poon Professor in Analytics and Innovation, and Chair of Business Analytics and Innovation.
 
 [The Stat Group at HKU Business School](https://hkubs-stat.github.io/)
+
+
 [Tenure-Track Professor/Associate Professor/Assistant Professor in Business Analytics (Statistics)](https://jobs.hku.hk/cw/en/listing/)
 
 
