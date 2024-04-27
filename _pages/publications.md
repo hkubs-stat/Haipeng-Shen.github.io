@@ -32,9 +32,6 @@ author_profile: true
   - J. Cai, A. Mandelbaum, C. H. Nagaraja, **H. Shen**, L. Z. Zhao (2019). Statistical Theory Powering Data Science, Statistical Science, 34, 669-691.
   - Zheng, Wang, Wang, Li, Wang, Zhao, **H. Shen**, Wang, Zuo, Pan, Wang, Shi, Ju, Liu, Dong, Wang, Sui, Xue, Pan, Niu, Luo, Wang, Feng, Wang (2019). The Efficacy and Safety of Nimodipine in Acute Ischemic Stroke Patients with Mild Cognitive Impairment: A Double-blind, Randomized, Placebo-controlled Trial, Science Bulletin, 64, 101-107.
   - Gen Li, J. Z. Huang, **H. Shen** (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
-  - Wang, ..., **H. Shen**, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
-  - Dong, ..., **H. Shen**, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, International Journal of Stroke, 13, 539-544.
-  - Makoto Aoshima, Dan Shen, **H. Shen**, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
 
 - Statistical Methodology
 
