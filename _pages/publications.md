@@ -22,13 +22,22 @@ author_profile: true
 ## Publications:
 
 - 2018+ 
-  - Han Ye, James Luedtke, **H. Shen** (2018+). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, Production and Operations Management, accepted.
-  - Gen Li, J. Z. Huang, **H. Shen** (2018+). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
+  - Ningyuan Chen, Ragıp Gürlek, Donald K. K. Lee, **H. Shen** (2023). Can Customer Arrival Rates Be Modelled by Sine Waves? Service Science, forthcoming.
+  - Jingxuan Wang, **H. Shen**, Fei Jiang (2023). Robust Recommendation Via Social Network Enhanced Matrix Completion, Statistica Sinica, 33(2), 609-631.
+  - Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, **H. Shen** (2023). Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data, Journal of Econometrics, 232(2), 544-564.
+  - Seonjoo Lee, **H. Shen**, Young Truong (2021). Sampling Properties of Color Independent Component Analysis, Journal of Multivariate Analysis, 181, 104692.
+  - Yi He, Yanxi Hou, Liang Peng, **H. Shen** (2020). Inference for Conditional Value-at-Risk of a Predictive Regression, Annals of Statistics, 48, 3442-3464.
+  - Han Ye, Lawrence D. Brown, **H. Shen** (2020). Hazard Rate Estimation for Call Center Customer Patience Time, IISE Transactions, 52, 890-903.
+  - Fei Jiang, Qing Cheng, Guosheng Yin, **H. Shen** (2020). Functional Censored Quantile Regression, Journal of the American Statistical Association, 115, 931-944.
+  - J. Cai, A. Mandelbaum, C. H. Nagaraja, **H. Shen**, L. Z. Zhao (2019). Statistical Theory Powering Data Science, Statistical Science, 34, 669-691.
+  - Zheng, Wang, Wang, Li, Wang, Zhao, **H. Shen**, Wang, Zuo, Pan, Wang, Shi, Ju, Liu, Dong, Wang, Sui, Xue, Pan, Niu, Luo, Wang, Feng, Wang (2019). The Efficacy and Safety of Nimodipine in Acute Ischemic Stroke Patients with Mild Cognitive Impairment: A Double-blind, Randomized, Placebo-controlled Trial, Science Bulletin, 64, 101-107.
+  - Han Ye, James Luedtke, **H. Shen** (2019). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, Production and Operations Management, accepted.
+  - Gen Li, J. Z. Huang, **H. Shen** (2018). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
+  - Wang, Li, Zhao, Wang, Wang, Wang, Liang, Liu, Wang, Li, **H. Shen**, Bettger, Pan, Jiang, Yang, Zhang, Fonarow, Peterson, Schwamm, Xian, Wang (2018). Effect of a Multifaceted Quality Improvement Intervention on Hospital Personnel Adherence to Performance Measures in Patients With Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
   - Gen Li, J. Z. Huang, **H. Shen** (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
   - Wang, ..., **H. Shen**, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
   - Dong, ..., **H. Shen**, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, International Journal of Stroke, 13, 539-544.
   - Makoto Aoshima, Dan Shen, **H. Shen**, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
-
 
 - Statistical Methodology
 
