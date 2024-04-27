@@ -31,9 +31,6 @@ author_profile: true
   - Fei Jiang, Qing Cheng, Guosheng Yin, **H. Shen** (2020). Functional Censored Quantile Regression, Journal of the American Statistical Association, 115, 931-944.
   - J. Cai, A. Mandelbaum, C. H. Nagaraja, **H. Shen**, L. Z. Zhao (2019). Statistical Theory Powering Data Science, Statistical Science, 34, 669-691.
   - Zheng, Wang, Wang, Li, Wang, Zhao, **H. Shen**, Wang, Zuo, Pan, Wang, Shi, Ju, Liu, Dong, Wang, Sui, Xue, Pan, Niu, Luo, Wang, Feng, Wang (2019). The Efficacy and Safety of Nimodipine in Acute Ischemic Stroke Patients with Mild Cognitive Impairment: A Double-blind, Randomized, Placebo-controlled Trial, Science Bulletin, 64, 101-107.
-  - Han Ye, James Luedtke, **H. Shen** (2019). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, Production and Operations Management, accepted.
-  - Gen Li, J. Z. Huang, **H. Shen** (2018). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
-  - Wang, Li, Zhao, Wang, Wang, Wang, Liang, Liu, Wang, Li, **H. Shen**, Bettger, Pan, Jiang, Yang, Zhang, Fonarow, Peterson, Schwamm, Xian, Wang (2018). Effect of a Multifaceted Quality Improvement Intervention on Hospital Personnel Adherence to Performance Measures in Patients With Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
   - Gen Li, J. Z. Huang, **H. Shen** (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
   - Wang, ..., **H. Shen**, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
   - Dong, ..., **H. Shen**, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, International Journal of Stroke, 13, 539-544.
@@ -41,7 +38,7 @@ author_profile: true
 
 - Statistical Methodology
 
-  - Gen Li, J. Z. Huang, **H. Shen** (2018+)  To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
+  - Gen Li, J. Z. Huang, **H. Shen** (2018)  To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
   - Gen Li, J. Z. Huang, **H. Shen**(2018+)  Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
   - Makoto Aoshima, Dan Shen, **H. Shen**, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
   - Dan Shen, **H. Shen**, J. S. Marron (2016). General Framework for Consistency of PCA, Journal of Machine Learning Research, 17, 1-34.
@@ -75,7 +72,7 @@ author_profile: true
   - Jianhua Huang, **H. Shen** (2004). Functional Coefficient Regression Models for Nonlinear Time Series: A Polynomial Spline Approach, Scandinavian Journal of Statistics, 31, 515-534.
 
 - Business Analytics
-  - Han Ye, James Luedtke, **H. Shen** (2018+). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, Production and Operations Management, accepted.
+  - Han Ye, James Luedtke, **H. Shen** (2019). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, Production and Operations Management, accepted.
   - Rouba Ibrahim, Han Ye, Pierre L’Ecuyer, **H. Shen** (2016). Modeling and Forecasting Call Center Arrivals: A Literature Survey and A Case Study, International Journal of Forecasting, 32, 865-874.
   - Rouba Ibrahim, Pierre L’Ecuyer, **H. Shen**, Mamadou Thiongane (2016). Inter-Dependent, Heterogeneous, and Time-Varying Service-Time Distributions in Call Centers, European Journal of Operations Management, 250, 480-492.
   - Noah Gans, **H. Shen**, Yong-Pin Zhou, Nikolay Korolev, Alan McCord, Herbert Ristock (2015). Parametric Stochastic Programming Models for Call-Center Workforce Scheduling, Manufacturing and Service Operations Management, 17, 571-588.
