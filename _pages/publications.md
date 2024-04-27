@@ -7,30 +7,32 @@ author_profile: true
 
 ## Grants:
 
-- Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Dec. 2023.
+- HKU Stanley Ho Alumni Challenge Award (2014-2020)
+- US NSF grant DMS-1407655 (2014-2018)
+- The Xerox Foundation UAC Award (2012-2015)
+- US NSF grant DMS-1106912 (2011-2014)
+- US NIH Challenge Grant 1 RC1 DA029425-01 (2009-2013)
+- US NSF grant CMMI-0800575 (2008-2012)
+- US NSF grant DMS-0606577 (2006-2010)
+- UNC-CH Junior Faculty Development Award (2008-2008)
+- UNC-CH University Research Council Award (2005-2007)
+- Greek General Secretariat for Research and Technology Program Award (2005-2007)
 
-- Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021-Jun. 2023.
-
-- NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020
-
-- Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.
-
-## Preprints:
-
-- Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021) <br>
-Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523) [[Arxiv]](https://arxiv.org/abs/2111.12921)
-
-- Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
-
-- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2020) <br> Tensor factor model estimation by iterative projection. [[Arxiv]](https://arxiv.org/abs/2006.02611)
-
-- Dan Yang, Dong Wang, Jianlong Shao, Haipeng Shen and Hongtu Zhu (2020) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. [[Arxiv]](http://arxiv.org/abs/2311.12597)
-
-- Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022) <br> Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
 
 ## Publications:
 
-- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted
+- 2018+ 
+  - Han Ye, James Luedtke, H. Shen (2018+) <br> Call Center Arrivals: When to Jointly Forecast Multiple Streams?, <br> Production and Operations Management, accepted.
+  - Gen Li, J. Z. Huang, H. Shen (2018+) <br> To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers<br>Journal of the American Statistical Association, accepted.
+  - Gen Li, J. Z. Huang, H. Shen (2018+)  <br> Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model<br>Biometrics, accepted.
+  - Wang, ..., H. Shen, ..., Wang (2018)<br> Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial<br> The Journal of the American Medical Association, 320, 245-254.
+  - Dong, ..., H. Shen, ..., Dong (2018)<br>The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records<br>International Journal of Stroke, 13, 539-544.
+  - Makoto Aoshima, Dan Shen, H. Shen, Kazuyoshi Yata, Zhou, J. S. Marron (2018)<br> A Survey of High Dimension Low Sample Size Asymptotics <br>Australia and New Zealand Journal of Statistics, 60, 4-19. 
+
+
+
+
+- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024)<br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted
 
 - Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023) <br> Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data. <br> Journal of Econometrics, 232(2), 544-564. [[Arxiv]](https://arxiv.org/abs/2006.16501)
 
