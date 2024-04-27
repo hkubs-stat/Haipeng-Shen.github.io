@@ -22,12 +22,12 @@ author_profile: true
 ## Publications:
 
 - 2018+ 
-  - Han Ye, James Luedtke, H. Shen (2018+). Call Center Arrivals: When to Jointly Forecast Multiple Streams?,Production and Operations Management, accepted.
-  - Gen Li, J. Z. Huang, H. Shen (2018+). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, Journal of the American Statistical Association, accepted.
-  - Gen Li, J. Z. Huang, H. Shen (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, Biometrics, accepted.
-  - Wang, ..., H. Shen, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, The Journal of the American Medical Association, 320, 245-254.
-  - Dong, ..., H. Shen, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, International Journal of Stroke, 13, 539-544.
-  - Makoto Aoshima, Dan Shen, H. Shen, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, Australia and New Zealand Journal of Statistics, 60, 4-19. 
+  - Han Ye, James Luedtke, **H. Shen** (2018+). Call Center Arrivals: When to Jointly Forecast Multiple Streams?, **Production and Operations Management**, accepted.
+  - Gen Li, J. Z. Huang, **H. Shen** (2018+). To Wait or Not to Wait: Two-Way Functional Hazards Model for Understanding Waiting in Call Centers, **Journal of the American Statistical Association**, accepted.
+  - Gen Li, J. Z. Huang, **H. Shen** (2018+). Non-Gaussian Functional Data Analysis via a Low-Rank Matrix Exponential Family Model, **Biometrics**, accepted.
+  - Wang, ..., **H. Shen**, ..., Wang (2018). Effect of a Multifaceted Intervention on Adherence to Performance Measures in Patients with Acute Ischemic Stroke in China: A Randomized Clinical Trial, **The Journal of the American Medical Association**, 320, 245-254.
+  - Dong, ..., **H. Shen**, ..., Dong (2018). The Network of Shanghai Stroke Service System (4S): A Public Healthcare Web-Based Database using Automatic Extraction of Electronic Medical Records, **International Journal of Stroke**, 13, 539-544.
+  - Makoto Aoshima, Dan Shen, **H. Shen**, Kazuyoshi Yata, Zhou, J. S. Marron (2018). A Survey of High Dimension Low Sample Size Asymptotics, **Australia and New Zealand Journal of Statistics**, 60, 4-19. 
 
 
 - Statistical Methodology
